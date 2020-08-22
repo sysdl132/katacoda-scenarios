@@ -5,9 +5,9 @@ The theme was set up :)
 try it by open a new zsh: `zsh`{{execute}}
 
 How to set zsh as default:
-`chsh /usr/bin/zsh`{{execute}}
+`chsh -s /usr/bin/zsh`{{execute}}
 
-(if you want to revert these changes,run: `chsh /bin/bash`{{execute}} )
+(if you want to revert these changes,run: `chsh -s /bin/bash`{{execute}} )
 
 ## More themes:
 
